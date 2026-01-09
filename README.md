@@ -35,10 +35,6 @@
 </p>
 
 ---
-<p>
-  ![working programmer like a cartoon mame](https://github.com/user-attachments/assets/d9f3105e-82f3-48ba-8d70-e290e18d734e)
-<p>
-
   ### 📊 GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=sakshi7710&show_icons=true&theme=default" />
