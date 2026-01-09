@@ -8,8 +8,7 @@
 
 ---
 
-### 👨‍💻 About Me
-
+### 👨‍💻 About Me                             
 - 🌱 I’m currently learning **Python** and enhancing data analytics skills.
 - 💻 check out my projects : 👉 [https://github.com/sakshi7710]
 - 💬 Ask me about **Python,SQL & PowerBi**
@@ -36,7 +35,11 @@
 </p>
 
 ---
-### 📊 GitHub Stats
+<p>
+  ![working programmer like a cartoon mame](https://github.com/user-attachments/assets/d9f3105e-82f3-48ba-8d70-e290e18d734e)
+<p>
+
+  ### 📊 GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=sakshi7710&show_icons=true&theme=default" />
 <p>
